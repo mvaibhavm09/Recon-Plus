@@ -34,5 +34,5 @@ A Unified Tool for Reconnaissance.
 <hr>
 
 ### Contributed by:
-- This tool is contributed by [IamLucif3r](https://github.com/IamLucif3r), [aarushikool](https://github.com/aarushikool), [mvaibhavm09](https://github.com/mvaibhavm09) &  [shockwave-exe](https://github.com/shockwave-exe).
+- This tool is contributed by [mvaibhavm09](https://github.com/mvaibhavm09), [IamLucif3r](https://github.com/IamLucif3r), [aarushikool](https://github.com/aarushikool) &  [shockwave-exe](https://github.com/shockwave-exe).
 - We will love to merge your contributions. 

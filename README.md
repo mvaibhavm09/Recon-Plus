@@ -25,7 +25,7 @@ A Unified Tool for Reconnaissance.
  - You'll get a menu based interface, from where you can choose different options according to your need: 
 
  
-   ![Screenshot at 2021-12-21 15-05-42](https://user-images.githubusercontent.com/53969258/146906739-3876fa6f-fe66-491f-a668-4ab8af47cdbd.png)
+   ![image](https://user-images.githubusercontent.com/61078554/149623389-fcf4e2d7-6b07-4bec-84ae-7399d824102b.png)
 
 
 ### Warning :warning:
